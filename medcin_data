@@ -1,0 +1,72 @@
+[
+  {
+    "nom": "Dr Karim El Mansouri",
+    "ville": "Casablanca",
+    "numéro": "0612345678",
+    "adresse": "Boulevard Zerktouni",
+    "spécialité": "Cardiologue"
+  },
+  {
+    "nom": "Dr Fatima Zahra Bennis",
+    "ville": "Rabat",
+    "numéro": "0600123456",
+    "adresse": "Avenue Mohammed V",
+    "spécialité": "Dermatologue"
+  },
+  {
+    "nom": "Dr Youssef El Fassi",
+    "ville": "Fès",
+    "numéro": "0678123456",
+    "adresse": "Rue de la Liberté",
+    "spécialité": "Pédiatre"
+  },
+  {
+    "nom": "Dr Salma Bouziane",
+    "ville": "Marrakech",
+    "numéro": "0623456789",
+    "adresse": "Rue Ibn Sina",
+    "spécialité": "Gynécologue"
+  },
+  {
+    "nom": "Dr Amine Chraibi",
+    "ville": "Agadir",
+    "numéro": "0634567890",
+    "adresse": "Avenue des FAR",
+    "spécialité": "Neurologue"
+  },
+  {
+    "nom": "Dr Hanane Ouazzani",
+    "ville": "Tanger",
+    "numéro": "0654321987",
+    "adresse": "Rue Pasteur",
+    "spécialité": "Ophtalmologue"
+  },
+  {
+    "nom": "Dr Mohamed Lahlou",
+    "ville": "Oujda",
+    "numéro": "0678901234",
+    "adresse": "Rue Al Qods",
+    "spécialité": "Chirurgien"
+  },
+  {
+    "nom": "Dr Asmae Idrissi",
+    "ville": "Kénitra",
+    "numéro": "0667890123",
+    "adresse": "Lotissement Al Amal",
+    "spécialité": "Endocrinologue"
+  },
+  {
+    "nom": "Dr Rachid Benyahia",
+    "ville": "Tétouan",
+    "numéro": "0689012345",
+    "adresse": "Avenue Moulay Ismail",
+    "spécialité": "ORL"
+  },
+  {
+    "nom": "Dr Imane Habbassi",
+    "ville": "El Jadida",
+    "numéro": "0690123456",
+    "adresse": "Rue Hassan II",
+    "spécialité": "Psychiatre"
+  }
+]
