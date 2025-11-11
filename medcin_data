@@ -1,3 +1,4 @@
+
 {
   "data": [
     {
@@ -69,6 +70,28 @@
       "numéro": "0690123456",
       "adresse": "Rue Hassan II",
       "spécialité": "Psychiatre"
+    },
+    {
+      "nom": "Dr Nawal Chahboune",
+      "ville": "Rabat",
+      "numéro": "0611223344",
+      "adresse": "Avenue Annakhil",
+      "spécialité": "Neurologue"
+    },
+    {
+      "nom": "Dr Hicham El Idrissi",
+      "ville": "Rabat",
+      "numéro": "0655667788",
+      "adresse": "Rue Ibn Rochd",
+      "spécialité": "Neurologue"
+    },
+    {
+      "nom": "Dr Samira El Alaoui",
+      "ville": "Rabat",
+      "numéro": "0677889900",
+      "adresse": "Boulevard Hassan II",
+      "spécialité": "Neurologue"
     }
   ]
 }
+
